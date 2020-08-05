@@ -126,6 +126,10 @@ Add a picture you like to cover the entire vscode..
 #### ver 2.2.3 (2019/10/30)
 	1.菜单列表文字对齐
     2.定义扩展类型为"ui"
+
+#### ver 2.2.4 (2020/07/28)
+	1.修复卸载钩子失效的问题
+    2.最低支持版本改为1.38.0
 ---
 ### Thanks 感谢
 
